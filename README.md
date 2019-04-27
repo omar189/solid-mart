@@ -1,2 +1,2 @@
 # solid-mart
-a shiooing website project for college
+a shopping website project for college
